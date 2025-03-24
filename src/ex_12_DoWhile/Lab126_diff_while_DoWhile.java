@@ -19,9 +19,3 @@ public class Lab126_diff_while_DoWhile {
     }
 }
 
-/*  out put
-0
-
-*/
-
- */
